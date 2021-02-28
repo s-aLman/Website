@@ -1,0 +1,149 @@
+.bg-dark {
+    background-color: lightseagreen !important;
+}
+
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.navbar-dark .navbar-nav .nav-item {
+    margin: 0 20px;
+}
+
+#carouselExampleIndicators {
+    margin-top: 45px;
+}
+
+#content p {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 22px;
+
+}
+
+#content section {
+    text-align: center;
+    font-size: 14px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+#topic {
+    text-align: center;
+}
+
+#firstrow i {
+    font-size: 28px;
+    color: lightseagreen;
+    text-align: center;
+    width: 100%;
+    margin-top: 3px;
+    margin-bottom: 40px;
+}
+
+#data {
+    font-size: 12px;
+}
+
+#more {
+    width: fit-content;
+    padding: 5px 20px 5px 20px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: grey solid 1px;
+    text-align: center;
+}
+
+#eNno p {
+    text-align: left;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 5px;
+    margin-top: 50px;
+}
+
+#secondrow h3 {
+    text-align: center;
+    color: lightseagreen;
+}
+
+#secondcolumn h5 {
+    text-align: Left;
+    padding-left: 50px;
+}
+
+#eNno1 p {
+    text-align: left;
+    font-size: 12px;
+    width: fit-content;
+    padding-left: 50px;
+    padding-right: 5px;
+    margin-top: 10px;
+}
+
+#eNno1 {
+    margin-top: 35px;
+}
+
+#thirdcolumn i {
+    padding-right: 10px;
+}
+
+#thirdcolumn p {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+#footer {
+    margin-top: 50px;
+    background-color: lightseagreen !important;
+}
+
+#leftfoot {
+    font-size: 12px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+#leftfoot i {
+    margin-right: 5px;
+}
+
+#leftfoot p {
+    color: white;
+    margin: 0;
+}
+
+#rightfoot {
+    font-size: 12px;
+    text-align: right;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#rightfoot p {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+}
+
+#rightfoot i {
+    padding-right: 12px;
+    color: white;
+    font-size: 15px;
+}
